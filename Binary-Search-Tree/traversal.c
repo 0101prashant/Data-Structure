@@ -47,11 +47,11 @@ struct node *insert(struct node *root, int val)
 int main()
 {
     struct node *root = NULL;
-    root = insert(root,100);
-    root = insert(root,50);
     root = insert(root,200);
-    root = insert(root,150);
-    root = insert(root,300);
+    root = insert(root,60);
+    root = insert(root,220);
+    root = insert(root,180);
+    root = insert(root,320);
 
     inorder(root);
 
