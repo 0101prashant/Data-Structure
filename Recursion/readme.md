@@ -12,7 +12,9 @@
  
   
   
-  D:- Tree or Binary recursion:- function call itself twice.
+  D:- Tree or Binary recursion:- function call itself twice. 
+   fun()
+   fun()
 
 
 
